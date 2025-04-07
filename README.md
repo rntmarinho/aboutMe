@@ -13,7 +13,7 @@
 ### 📊 Análise de Dados
 | Curso | Plataforma | Carga Horária | Certificado |
 |-------|------------|--------------|-------------|
-| Introdução à análise de dados - Microsoft Power BI | Fundação Bradesco | 5h | [📁 PDF](/certificados/dados/certificado-power-bi.pdf) |
+| Introdução à análise de dados - Microsoft Power BI | Fundação Bradesco | 5h | [📁 PDF](/certificados/powerBI.pdf) |
 
 ### 🌐 Idiomas
 | Curso | Plataforma | Carga Horária | Certificado |
