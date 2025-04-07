@@ -4,11 +4,11 @@
 ### 💻 Tecnologia
 | Curso | Plataforma | Carga Horária | Certificado |
 |-------|------------|--------------|-------------|
-| Azure cloud computing com ênfase em Inteligência Artifical | Universidade São Judas | 36h | [📁 PDF](/certificados/tecnologia/certificado-git-github.pdf) |
-| Projeto de iniciação científica e extensão | UNA CDU | 80h | [📁 PDF](/certificados/tecnologia/certificado-python.pdf) |
-| Modelos, métodos e técnicas de engenharia de software | UNA & CDL | 160h | [📁 PDF](/certificados/tecnologia/certificado-python.pdf) |
-| Cyberssecurity Essencials | Cisco Networking Academy | 30h | [📁 PDF](/certificados/tecnologia/certificado-python.pdf) |
-| Networking Essencials | Cisco Networking Academy | 30h | [📁 PDF](/certificados/tecnologia/certificado-python.pdf) |
+| Azure cloud computing com ênfase em Inteligência Artifical | Universidade São Judas | 36h | [📁 PDF](/Certificados/azureCloudComputing.pdf) |
+| Projeto de iniciação científica e extensão | UNA CDU | 80h | [📁 PDF](/Certificados/businessLab.pdf) |
+| Modelos, métodos e técnicas de engenharia de software | UNA & CDL | 160h | [📁 PDF](/Certificados/CDLgestão_e_qualidade_de_software.pdf) |
+| Cyberssecurity Essencials | Cisco Networking Academy | 30h | [📁 PDF](/Certificados/Cybersecurity_Essentials_certificate_renatareismarinho-gmail-com_fd51f8a1-a68a-4361-bd45-d113a2bb2f72.pdf) |
+| Networking Essencials | Cisco Networking Academy | 30h | [📁 PDF](/Certificados/Networking_Essentials_certificate_renatareismarinho-gmail-com_e6bc6fa9-bda8-4549-8b2f-091df3b72259.pdf) |
 
 ### 📊 Análise de Dados
 | Curso | Plataforma | Carga Horária | Certificado |
