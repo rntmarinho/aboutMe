@@ -19,7 +19,7 @@
 ### 🌐 Idiomas
 | Curso | Plataforma | Carga Horária | Certificado |
 |-------|------------|--------------|-------------|
-| Inglês Intermediário | Cultura Inglesa | 120h | [📁 PDF](/certificados/idiomas/certificado-ingles.pdf) |
+| Inglês B2 | Step by Step | 6 anos | [📁 PDF](/certificados/idiomas/certificado-ingles.pdf) |
 
 ## 📊 Estatísticas
 ✅ **Total de certificados:** 7  
