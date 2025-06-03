@@ -10,6 +10,7 @@
 | Cyberssecurity Essencials | Cisco Networking Academy | 30h | [📁 PDF](/Certificados/Cybersecurity_Essentials_certificate_renatareismarinho-gmail-com_fd51f8a1-a68a-4361-bd45-d113a2bb2f72.pdf) |
 | Networking Essencials | Cisco Networking Academy | 30h | [📁 PDF](/Certificados/Networking_Essentials_certificate_renatareismarinho-gmail-com_e6bc6fa9-bda8-4549-8b2f-091df3b72259.pdf) |
 | Introduction to Dark Web Operations | Security Blue Team | 5h |[📁 PDF](/Certificados/Introduction_to_Dark_Web_Operations-course.pdf) |
+| Defesa de Redes | Cisco Networking Academy | 27h |[📁 PDF](/Certificados/cisco_NetworDefense.pdf) |
 
 ### 📊 Análise de Dados
 | Curso | Plataforma | Carga Horária | Certificado |
