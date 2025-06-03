@@ -23,9 +23,9 @@
 | Inglês B2 | Step by Step | 6 anos | [📁 PDF](/certificados/idiomas/certificado-ingles.pdf) |
 
 ## 📊 Estatísticas
-✅ **Total de certificados:** 7  
-⏳ **Total de horas de cursos:** 341 horas  
+✅ **Total de certificados:** 8  
+⏳ **Total de horas de cursos:** 368 horas  
 
-📌 **Última atualização:** 07/04/2025
+📌 **Última atualização:** 03/06/2025
 
 💡 **Dica:** Para visualizar os PDFs diretamente no GitHub, clique no arquivo e depois em "Download".
