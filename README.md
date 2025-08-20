@@ -11,6 +11,7 @@
 | Networking Essencials | Cisco Networking Academy | 30h | [📁 PDF](/Certificados/Networking_Essentials_certificate_renatareismarinho-gmail-com_e6bc6fa9-bda8-4549-8b2f-091df3b72259.pdf) |
 | Introduction to Dark Web Operations | Security Blue Team | 5h |[📁 PDF](/Certificados/Introduction_to_Dark_Web_Operations-course.pdf) |
 | Defesa de Redes | Cisco Networking Academy | 27h |[📁 PDF](/Certificados/cisco_NetworDefense.pdf) |
+| Cyber Defence Strategies | IT Masters - Charles Sturt University | 20h |[📁 PDF](/Certificados/Certificate_of_Completion.pdf) |
 
 ### 📊 Análise de Dados
 | Curso | Plataforma | Carga Horária | Certificado |
@@ -20,12 +21,12 @@
 ### 🌐 Idiomas
 | Curso | Plataforma | Carga Horária | Certificado |
 |-------|------------|--------------|-------------|
-| Inglês B2 | Step by Step | 6 anos | [📁 PDF](/certificados/idiomas/certificado-ingles.pdf) |
+| Inglês B2 | Step by Step | 6 anos | [📁 PDF](/certificados/idiomas/certificado_ingles.pdf) |
 
 ## 📊 Estatísticas
-✅ **Total de certificados:** 9  
-⏳ **Total de horas de cursos:** 373 horas  
+✅ **Total de certificados:** 10  
+⏳ **Total de horas de cursos:** 393 horas  
 
-📌 **Última atualização:** 03/06/2025
+📌 **Última atualização:** 03/08/2025
 
 💡 **Dica:** Para visualizar os PDFs diretamente no GitHub, clique no arquivo e depois em "Download".
