@@ -17,6 +17,7 @@ Busco integrar expertise técnica e segurança para garantir a robustez operacio
 ## 💼 Experiência Profissional
 
 **Assistente de TI** | Cab Tecnologia, Belo Horizonte
+
 *Período: Fevereiro, 2024 – Presente*
 
 * Suporte técnico especializado a usuários e à infraestrutura de redes.
@@ -26,6 +27,7 @@ Busco integrar expertise técnica e segurança para garantir a robustez operacio
 * Desenvolvimento de práticas de Governança de TI, incluindo a criação de documentação de processos e gestão de inventário de ativos.
 
 **Estágio de Suporte Técnico** | PCX Tecnologia, Belo Horizonte
+
 *Período: Dezembro, 2023 – Fevereiro, 2024*
 
 * Prestação de suporte técnico local a clientes, resolvendo incidentes em hardware e software.
@@ -33,6 +35,7 @@ Busco integrar expertise técnica e segurança para garantir a robustez operacio
 * Utilização e suporte a ferramentas do ecossistema Microsoft para garantir a produtividade do usuário.
 
 **Estágio de Suporte em Sistema** | Master SIG, Belo Horizonte
+
 *Período: Julho, 2022 – Novembro, 2023*
 
 * Suporte remoto especializado para um sistema ERP proprietário de gestão industrial, fiscal e contábil.
@@ -43,11 +46,17 @@ Busco integrar expertise técnica e segurança para garantir a robustez operacio
 
 ## 🎓 Formação Acadêmica
 
-**[Nome do Curso, e.g., Bacharelado em Ciência da Computação]** | [Nome da Instituição de Ensino]
-*Período: [Ano de Início] – [Ano de Conclusão]*
+**Especialização em Segurança da Informação** | Universidade Estácio de Sá
+*Período: Agosto, 2024 – Junho, 2025*
+* **Principais Tópicos:** Fundamentos de segurança, gestão de segurança em redes, crimes cibernéticos e computação forense, segurança em cloud computing e auditoria de sistemas.
 
-* **Trabalho de Conclusão de Curso:** [Título do TCC, se relevante].
-* **Atividades Extracurriculares:** [Participação em grupos de estudo, competições, etc.].
+**Tecnólogo em Análise e Desenvolvimento de Sistemas** | Centro Universitário UNA
+*Período: Fevereiro, 2022 – Julho, 2024*
+* **Principais Tópicos:** Engenharia de software, programação de soluções computacionais, sistemas distribuídos, segurança da informação e desenvolvimento web/mobile.
+
+**Técnico em Informática** | COTEMIG
+*Período: Fevereiro, 2020 – Dezembro, 2021*
+* **Principais Tópicos:** Desenvolvimento web (JavaScript, PHP, CSS), programação orientada a objetos (C#) e administração de banco de dados (MySQL).
 
 ---
 ## 🏆 Certificados
