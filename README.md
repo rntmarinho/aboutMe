@@ -62,6 +62,34 @@ Busco integrar expertise técnica e segurança para garantir a robustez operacio
 * **Principais Tópicos:** Desenvolvimento web (JavaScript, PHP, CSS), programação orientada a objetos (C#) e administração de banco de dados (MySQL).
 
 ---
+
+## 🚀 Projetos
+
+**[CourseFlow](https://github.com/Marlon1337s/CourseFlow)**
+<br>
+Sistema de gerenciamento para automatizar o processo de administração e acompanhamento dos cursos cadastrados em uma plataforma.
+<br>
+*__Tecnologias:__ Java, JUnit, MySQL.*
+
+**[Nutrem - Sabores Regionais](https://github.com/brunogregorioj/Nutrem-SaboresRegionais)**
+<br>
+Site dedicado a promover produtos alimentícios artesanais de diferentes regiões do país em períodos rotativos, destacando a diversidade cultural e gastronômica.
+<br>
+*__Tecnologias:__ HTML, CSS, JavaScript.*
+
+**[Infraestrutura de Rede Corporativa](https://github.com/[SEU-USUARIO]/Projeto-Redes)**
+<br>
+Projeto de infraestrutura de rede para uma empresa de médio porte, incluindo documentação, diagramas lógicos e simulação no Cisco Packet Tracer. Contempla a configuração de Domain Controller, DHCP, DNS, RADIUS, servidores de banco de dados e aplicações web.
+<br>
+*__Tecnologias:__ Windows Server, Linux Ubuntu, pfSense, Cisco Packet Tracer, Active Directory.*
+
+**[YouVerse](https://github.com/lucas-lana/DuoMo)**
+<br>
+Plataforma para encontrar filmes que combinam com o perfil de um usuário e seus amigos.
+<br>
+*__Tecnologias:__ JavaScript.*
+
+---
 ## 🏆 Certificados
 
 ### 💻 Tecnologia
