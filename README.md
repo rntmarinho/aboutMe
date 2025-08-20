@@ -2,31 +2,42 @@
 
 ## 📄 Resumo Profissional
 
-Profissional de TI com especialização em Segurança da Informação, graduada em Análise e Desenvolvimento de Sistemas e formação técnica em informática. Experiência consolidada em:
-● Desenvolvimento e suporte de software com foco em Java e Python;
-● Infraestrutura de redes: configuração e administração de servidores, controladores de domínio e firewalls (PFSense);
-● Gestão de ativos e otimização de processos de TI;
-● Operações de segurança: testes de penetração em redes e proteção de ativos;
-● Suporte técnico especializado a usuários finais.
-Busco integrar expertise técnica e segurança para garantir robustez operacional e mitigação de riscos em ambientes críticos.
+Profissional de TI com especialização em Segurança da Informação, graduada em Análise e Desenvolvimento de Sistemas e formação técnica em informática. Minha experiência consolidada abrange:
+
+* **Desenvolvimento e Suporte:** Foco em linguagens como Java e Python.
+* **Infraestrutura de Redes:** Configuração e administração de servidores, controladores de domínio e firewalls (PFSense).
+* **Governança de TI:** Gestão de ativos e otimização de processos.
+* **Operações de Segurança:** Execução de testes de penetração (pentest) em redes e proteção de ativos críticos.
+* **Suporte Técnico:** Atendimento especializado a usuários finais.
+
+Busco integrar expertise técnica e segurança para garantir a robustez operacional e a mitigação de riscos em ambientes de alta criticidade.
 
 ---
 
 ## 💼 Experiência Profissional
 
-**Assistente de TI** | CAB TECNOLOGIA E SISTEMA COMERCIO LTDA
+**Assistente de TI** | Cab Tecnologia, Belo Horizonte
 *Período: Fevereiro, 2024 – Presente*
 
-* Desenvolvimento e manutenção de [descrever o sistema ou projeto principal].
-* Responsável por [descrever uma responsabilidade chave], utilizando tecnologias como [Tecnologia 1], [Tecnologia 2] e [Tecnologia 3].
-* Implementação de [mencionar uma melhoria ou feature], que resultou em [mencionar um resultado quantificável, e.g., "uma melhoria de 15% na performance"].
-* Colaboração em equipes multidisciplinares utilizando metodologias ágeis como Scrum e Kanban.
+* Suporte técnico especializado a usuários e à infraestrutura de redes.
+* Configuração e administração de equipamentos de rede, incluindo Access Points, switches e Firewall PFSense.
+* Gerenciamento de servidores Windows Server, com implementação de rotinas de backup em nuvem e local.
+* Liderança em projetos de infraestrutura, com destaque para a implementação de SharePoint com Microsoft 365.
+* Desenvolvimento de práticas de Governança de TI, incluindo a criação de documentação de processos e gestão de inventário de ativos.
 
-**[Seu Cargo Anterior]** | [Nome da Empresa]
-*Período: [Mês, Ano] – [Mês, Ano]*
+**Estágio de Suporte Técnico** | PCX Tecnologia, Belo Horizonte
+*Período: Dezembro, 2023 – Fevereiro, 2024*
 
-* [Descrever principal responsabilidade ou conquista].
-* [Descrever outra responsabilidade ou conquista].
+* Prestação de suporte técnico local a clientes, resolvendo incidentes em hardware e software.
+* Realização de procedimentos de manutenção, como formatação, configuração e otimização de notebooks e desktops.
+* Utilização e suporte a ferramentas do ecossistema Microsoft para garantir a produtividade do usuário.
+
+**Estágio de Suporte em Sistema** | Master SIG, Belo Horizonte
+*Período: Julho, 2022 – Novembro, 2023*
+
+* Suporte remoto especializado para um sistema ERP proprietário de gestão industrial, fiscal e contábil.
+* Atendimento e resolução de chamados de usuários, garantindo a operacionalidade do sistema.
+* Atuação com tecnologias legadas, incluindo a linguagem Delphi 2007 e o banco de dados Firebird.
 
 ---
 
