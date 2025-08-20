@@ -21,7 +21,7 @@
 ### 🌐 Idiomas
 | Curso | Plataforma | Carga Horária | Certificado |
 |-------|------------|--------------|-------------|
-| Inglês B2 | Step by Step | 6 anos | [📁 PDF](/certificados/certificado_ingles.pdf) |
+| Inglês B2 | Step by Step | 6 anos | [📁 PDF](/Certificados/Certificate_of_Completion.pdf) |
 
 ## 📊 Estatísticas
 ✅ **Total de certificados:** 10  
