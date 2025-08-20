@@ -1,4 +1,44 @@
+# Sobre Mim (About Me)
 
+## 📄 Resumo Profissional
+
+Profissional de TI com especialização em Segurança da Informação, graduada em Análise e Desenvolvimento de Sistemas e formação técnica em informática. Experiência consolidada em:
+● Desenvolvimento e suporte de software com foco em Java e Python;
+● Infraestrutura de redes: configuração e administração de servidores, controladores de domínio e firewalls (PFSense);
+● Gestão de ativos e otimização de processos de TI;
+● Operações de segurança: testes de penetração em redes e proteção de ativos;
+● Suporte técnico especializado a usuários finais.
+Busco integrar expertise técnica e segurança para garantir robustez operacional e mitigação de riscos em ambientes críticos.
+
+---
+
+## 💼 Experiência Profissional
+
+**Assistente de TI** | CAB TECNOLOGIA E SISTEMA COMERCIO LTDA
+*Período: Fevereiro, 2024 – Presente*
+
+* Desenvolvimento e manutenção de [descrever o sistema ou projeto principal].
+* Responsável por [descrever uma responsabilidade chave], utilizando tecnologias como [Tecnologia 1], [Tecnologia 2] e [Tecnologia 3].
+* Implementação de [mencionar uma melhoria ou feature], que resultou em [mencionar um resultado quantificável, e.g., "uma melhoria de 15% na performance"].
+* Colaboração em equipes multidisciplinares utilizando metodologias ágeis como Scrum e Kanban.
+
+**[Seu Cargo Anterior]** | [Nome da Empresa]
+*Período: [Mês, Ano] – [Mês, Ano]*
+
+* [Descrever principal responsabilidade ou conquista].
+* [Descrever outra responsabilidade ou conquista].
+
+---
+
+## 🎓 Formação Acadêmica
+
+**[Nome do Curso, e.g., Bacharelado em Ciência da Computação]** | [Nome da Instituição de Ensino]
+*Período: [Ano de Início] – [Ano de Conclusão]*
+
+* **Trabalho de Conclusão de Curso:** [Título do TCC, se relevante].
+* **Atividades Extracurriculares:** [Participação em grupos de estudo, competições, etc.].
+
+---
 ## 🏆 Certificados
 
 ### 💻 Tecnologia
