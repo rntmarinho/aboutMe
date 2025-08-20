@@ -47,14 +47,17 @@ Busco integrar expertise técnica e segurança para garantir a robustez operacio
 ## 🎓 Formação Acadêmica
 
 **Especialização em Segurança da Informação** | Universidade Estácio de Sá
+
 *Período: Agosto, 2024 – Junho, 2025*
 * **Principais Tópicos:** Fundamentos de segurança, gestão de segurança em redes, crimes cibernéticos e computação forense, segurança em cloud computing e auditoria de sistemas.
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** | Centro Universitário UNA
+
 *Período: Fevereiro, 2022 – Julho, 2024*
 * **Principais Tópicos:** Engenharia de software, programação de soluções computacionais, sistemas distribuídos, segurança da informação e desenvolvimento web/mobile.
 
 **Técnico em Informática** | COTEMIG
+
 *Período: Fevereiro, 2020 – Dezembro, 2021*
 * **Principais Tópicos:** Desenvolvimento web (JavaScript, PHP, CSS), programação orientada a objetos (C#) e administração de banco de dados (MySQL).
 
